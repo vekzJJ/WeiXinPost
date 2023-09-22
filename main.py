@@ -1,6 +1,7 @@
 import cityinfo
 import config
 import time
+import os
 from time import localtime
 from requests import get, post
 from datetime import datetime, date
